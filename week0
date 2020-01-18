@@ -1,0 +1,65 @@
+Assignment 0
+Due date: 2020-01-27, 23:59 IST.
+Your last recorded submission was on 2020-01-18, 11:18 IST
+
+Note : This assignment is for practice and it will not be graded.
+
+Which of the following is not a social networking site:
+ Google+
+ Instagram
+ -> Bing
+ Twitter
+
+Social Networking involves communication between ___________ ?
+ Two computers
+ A computer and a router
+ A human and a computer
+ -> Two or more people
+
+An Internet meme is (​ Choose the best answer ​ ):
+ A social networking website
+ Any Website
+ A computer virus
+ -> Any kind of digital artefact traversing through the Internet, be it an image, audio, video or a file in some other format.
+
+Which of the following is useful in traversing a given graph by breadth first search?	
+ Set
+ List
+ Stack
+ -> Queue
+
+What is the maximum number of possible non-zero values in an adjacency matrix of a simple graph with n vertices?
+ (n*(n-1))/2
+ (n*(n+1))/2
+ -> n*(n-1)
+ n*(n+1)
+
+On which of the following statements does the time complexity of checking if an edge exists between two particular vertices or not depends?
+ Depends on the number of edges
+ Depends on the number of vertices
+ -> Is independent of both the number of edges and vertices
+ It depends on both the number of edges and vertices
+
+Which type of graph has all the vertices of the first set connected to all the vertices of the second set?
+ Bipartite
+->  Complete Bipartite
+ Cartesian
+ Pie
+
+In a complete graph with n nodes, how many different triangles are present?
+ 3n
+ n3
+->  (n3-3n2+2n)/6
+ None of the above
+
+In an undirected graph G with n vertices and e edges, the sum of the degrees of each vertex is:
+ n*e
+ 2n
+ -> 2e
+ en
+
+The number of edges in a regular graph of degree d and n vertices is (Assume n and d to be even):
+ nd
+ (n+d)/2
+ -> (nd)/2
+ Maximum of n,d
